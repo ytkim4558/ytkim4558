@@ -11,6 +11,7 @@ development workflows.
 - MCP-based workflow automation that connects Slack, Outlook, wiki knowledge, ticket search, and local tools
 - Designed support-agent personas, source-grounding rules, official URL validation, similar-document/ticket search, and answer verification checks
 - Built monitoring workflows for escalation decisions such as engineer handoff, Slack DM follow-up, manager escalation, and ticket severity review
+- Built Slack bot workflows for case aging triage: LLM-based case summaries, missing-step detection, internal-note review, escalation-readiness checks, and guidance for engineer/manager follow-up
 - Persona-based customer response drafting and customer issue reproduction automation
 - Jekyll-based documentation and portfolio publishing
 - Mobile and backend product development across Android, iOS, PHP, Java, and Python
