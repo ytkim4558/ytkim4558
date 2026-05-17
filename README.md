@@ -1,10 +1,12 @@
 # Yongtak Kim
 
-Cloud engineer with a product development background across mobile apps,
-backend systems, and practical AI-assisted development workflows.
+AWS Cloud Support Engineer and OpenSearch SME with a product development
+background across mobile apps, backend systems, and practical AI-assisted
+development workflows.
 
 ## Focus
 
+- OpenSearch troubleshooting, customer issue analysis, and analytics support on AWS
 - AWS-based cloud operations and technical support
 - Jekyll-based documentation and portfolio publishing
 - Mobile and backend product development across Android, iOS, PHP, Java, and Python
