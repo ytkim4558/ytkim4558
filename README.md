@@ -21,6 +21,7 @@ development workflows.
 
 - [codex-resume](https://github.com/ytkim4558/codex-resume): Windows-friendly TUI for searching and resuming OpenAI Codex CLI sessions
 - [claude-resume](https://github.com/ytkim4558/claude-resume): LLM-summary-based TUI for finding and continuing Claude Code sessions
+- [linkedin-official-mcp](https://github.com/ytkim4558/linkedin-official-mcp): local MCP server for LinkedIn official API posting workflows
 - [claude-toolkit](https://github.com/ytkim4558/claude-toolkit): reusable AI-agent workflow notes and skills
 - [Engineering Notes](https://ytkim4558.github.io/): portfolio, technical notes, and AI workflow write-ups
 
