@@ -8,7 +8,9 @@ development workflows.
 
 - OpenSearch troubleshooting, customer issue analysis, and analytics support on AWS
 - AWS-based cloud operations and technical support
-- MCP-based workflow automation that connects Slack, Outlook, wiki knowledge, and local tools
+- MCP-based workflow automation that connects Slack, Outlook, wiki knowledge, ticket search, and local tools
+- Designed support-agent personas, source-grounding rules, official URL validation, similar-document/ticket search, and answer verification checks
+- Built monitoring workflows for escalation decisions such as engineer handoff, Slack DM follow-up, manager escalation, and ticket severity review
 - Persona-based customer response drafting and customer issue reproduction automation
 - Jekyll-based documentation and portfolio publishing
 - Mobile and backend product development across Android, iOS, PHP, Java, and Python
