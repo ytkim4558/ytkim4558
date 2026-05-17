@@ -1,12 +1,12 @@
 # Yongtak Kim
 
-Cloud analytics and data platform engineer working on AWS-based batch analytics,
-Spark/EMR operations, and practical AI-assisted development workflows.
+Cloud engineer with a product development background across mobile apps,
+backend systems, and practical AI-assisted development workflows.
 
 ## Focus
 
-- Cloud analytics platform engineering on AWS
-- Data processing and operations with Spark, EMR, Athena, S3, and Jekyll-based documentation
+- AWS-based cloud operations and technical support
+- Jekyll-based documentation and portfolio publishing
 - Mobile and backend product development across Android, iOS, PHP, Java, and Python
 - AI workflow tooling for session search, handoff notes, portfolio maintenance, and developer productivity
 
