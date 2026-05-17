@@ -8,6 +8,8 @@ development workflows.
 
 - OpenSearch troubleshooting, customer issue analysis, and analytics support on AWS
 - AWS-based cloud operations and technical support
+- MCP-based workflow automation that connects Slack, Outlook, wiki knowledge, and local tools
+- Persona-based customer response drafting and customer issue reproduction automation
 - Jekyll-based documentation and portfolio publishing
 - Mobile and backend product development across Android, iOS, PHP, Java, and Python
 - AI workflow tooling for session search, handoff notes, portfolio maintenance, and developer productivity
@@ -24,4 +26,5 @@ development workflows.
 I started from mobile app and backend product development, then expanded into
 image processing research, data engineering, cloud analytics, and AI-assisted
 engineering workflows. My current interest is turning repeated debugging,
-documentation, and handoff work into tools and repeatable operating rules.
+customer support, documentation, and handoff work into tools and repeatable
+operating rules.
